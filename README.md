@@ -24,15 +24,15 @@
 
 **Real-time voice conversations with AI-powered financial intelligence**
 
-> 🎙️ **Voice Interface Demo**
-> 
-> *Experience natural voice interactions for complex financial queries like "Can you tell me what interest rate I can get for a home loan of 50 lakhs?"*
-> 
-> **Key Features:**
-> - 🗣️ Natural language voice processing with Gemini Vox
-> - ⚡ Real-time speech-to-insight conversion
-> - 🌐 Multi-language support (Hindi & English)
-> - 🧠 Context-aware conversation memory
+![Voice Interface](./assets/voice-interface.png)
+
+*Experience natural voice interactions for complex financial queries like "Can you tell me what interest rate I can get for a home loan of 50 lakhs?"*
+
+**Key Features:**
+- 🗣️ Natural language voice processing with Gemini Vox
+- ⚡ Real-time speech-to-insight conversion
+- 🌐 Multi-language support (Hindi & English)
+- 🧠 Context-aware conversation memory
 
 </div>
 
@@ -42,15 +42,15 @@
 
 **Live financial data integration with beautiful visualizations**
 
-> 📊 **Investment Portfolio Dashboard**
-> 
-> *Real-time portfolio analysis showing ₹2.0L total assets with 69.33% returns and intelligent AI insights*
-> 
-> **Dashboard Highlights:**
-> - 💰 Total Portfolio Value: ₹2.0L with 69.33% returns
-> - 📈 Live market data integration via MCP
-> - 🎯 AI-powered investment recommendations
-> - 📊 Interactive charts and performance metrics
+![Investment Dashboard](./assets/investment-dashboard.png)
+
+*Real-time portfolio analysis showing ₹2.0L total assets with 69.33% returns and intelligent AI insights*
+
+**Dashboard Highlights:**
+- 💰 Total Portfolio Value: ₹2.0L with 69.33% returns
+- 📈 Live market data integration via MCP
+- 🎯 AI-powered investment recommendations
+- 📊 Interactive charts and performance metrics
 
 </div>
 
@@ -60,15 +60,15 @@
 
 **AI-powered credit analysis and personalized recommendations**
 
-> 💡 **Financial Health Scoring**
-> 
-> *Comprehensive financial health scoring with 746 credit score analysis and ₹6.6L net worth tracking*
-> 
-> **Health Analysis Features:**
-> - 🏆 Credit Score: 746 (Good rating)
-> - 💎 Net Worth: ₹6.6L with growth tracking
-> - 📊 Debt-to-asset ratio optimization
-> - 🎯 Personalized improvement recommendations
+![Financial Health](./assets/financial-health.png)
+
+*Comprehensive financial health scoring with 746 credit score analysis and ₹6.6L net worth tracking*
+
+**Health Analysis Features:**
+- 🏆 Credit Score: 746 (Good rating)
+- 💎 Net Worth: ₹6.6L with growth tracking
+- 📊 Debt-to-asset ratio optimization
+- 🎯 Personalized improvement recommendations
 
 </div>
 
@@ -78,15 +78,15 @@
 
 **Real-time banking data with cash flow analysis**
 
-> 🏦 **Banking Dashboard**
-> 
-> *Live banking integration showing account balances, transaction analysis, and spending insights*
-> 
-> **Banking Features:**
-> - 💳 Real-time account balance monitoring
-> - 📊 Transaction categorization and analysis
-> - 💰 Cash flow visualization and trends
-> - 🔍 Spending pattern recognition and alerts
+![Banking Dashboard](./assets/banking-dashboard.png)
+
+*Live banking integration showing account balances, transaction analysis, and spending insights*
+
+**Banking Features:**
+- 💳 Real-time account balance monitoring
+- 📊 Transaction categorization and analysis
+- 💰 Cash flow visualization and trends
+- 🔍 Spending pattern recognition and alerts
 
 </div>
 
