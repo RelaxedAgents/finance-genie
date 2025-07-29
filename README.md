@@ -10,7 +10,9 @@
 
 **🚀 Revolutionary AI-powered financial intelligence platform that transforms personal finance management through advanced multi-agent orchestration, real-time voice interactions, and intelligent memory management.**
 
-[**🌟 Try Live Demo**](https://idx-ai-agent-ui-89585626-371876271303.asia-south1.run.app/dashboard) • [**📚 API Docs**](https://idx-ai-agent-ui-89585626-371876271303.asia-south1.run.app/docs) • [**🎥 Watch Demo**](#-live-demo--screenshots)
+[**🌟 TRY LIVE DEMO: Click here to use the app yourself!**](https://idx-ai-agent-ui-89585626-371876271303.asia-south1.run.app/dashboard) - Once on the dashboard, click the voice 🎙️ or chat 💬 icons to interact with the AI
+
+[**📚 API Documentation**](https://idx-ai-agent-ui-89585626-371876271303.asia-south1.run.app/docs) • [**🎥 Watch Demo Video**](#-live-demo--screenshots)
 
 </div>
 
