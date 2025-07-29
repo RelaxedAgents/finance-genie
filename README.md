@@ -26,7 +26,7 @@
 
 **Real-time voice conversations with AI-powered financial intelligence**
 
-![Voice Interface](./assets/voice-interface.png)
+<img width="1488" height="813" alt="Screenshot 2025-07-29 at 10 42 43 PM" src="https://github.com/user-attachments/assets/76c795e7-3e51-436e-9eba-90e06dbecf41" />
 
 *Experience natural voice interactions for complex financial queries like "Can you tell me what interest rate I can get for a home loan of 50 lakhs?"*
 
@@ -44,7 +44,7 @@
 
 **Live financial data integration with beautiful visualizations**
 
-![Investment Dashboard](./assets/investment-dashboard.png)
+<img width="1506" height="901" alt="Screenshot 2025-07-29 at 10 39 53 PM" src="https://github.com/user-attachments/assets/db06e2fd-5b97-4484-8760-1f8335c61d7e" />
 
 *Real-time portfolio analysis showing ₹2.0L total assets with 69.33% returns and intelligent AI insights*
 
@@ -62,7 +62,7 @@
 
 **AI-powered credit analysis and personalized recommendations**
 
-![Financial Health](./assets/financial-health.png)
+<img width="1501" height="904" alt="Screenshot 2025-07-29 at 10 40 17 PM" src="https://github.com/user-attachments/assets/4984e012-a6bb-43de-93fd-9ad7236631d2" />
 
 *Comprehensive financial health scoring with 746 credit score analysis and ₹6.6L net worth tracking*
 
@@ -80,7 +80,7 @@
 
 **Real-time banking data with cash flow analysis**
 
-![Banking Dashboard](./assets/banking-dashboard.png)
+<img width="1512" height="901" alt="Screenshot 2025-07-29 at 10 40 10 PM" src="https://github.com/user-attachments/assets/48727f4b-9cf5-4c22-b9b9-61677599676a" />
 
 *Live banking integration showing account balances, transaction analysis, and spending insights*
 
